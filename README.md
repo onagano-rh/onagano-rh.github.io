@@ -8,3 +8,7 @@ Add another line.
 
 Add one more line.
 
+- hoge
+- foo
+- bar
+
